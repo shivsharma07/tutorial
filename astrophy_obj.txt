@@ -1,5 +1,5 @@
 # content of astrophy_obj.txt
 spiral galaxy
 ellipitcal galaxy
-barred
+barred galaxy
 irregular galaxy
