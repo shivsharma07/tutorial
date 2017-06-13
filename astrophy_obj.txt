@@ -1,5 +1,5 @@
 # content of astrophy_obj.txt
-spiral
-ellipitcal
-bar 
-irregular
+spiral galaxy
+ellipitcal galaxy
+bar galaxy
+irregular galaxy
