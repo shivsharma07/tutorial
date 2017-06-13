@@ -1,5 +1,5 @@
 # content of astrophy_obj.txt
 spiral
 ellipitcal
-barred 
+bar
 irregular
